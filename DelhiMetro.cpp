@@ -50,6 +50,7 @@ public:
 
     bool check(string, string);
     void calcPrice(string, string);
+
           
 };
 
