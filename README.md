@@ -3,12 +3,12 @@
  ![x](./pics/Logo.png)
 
 ## ⚙️ Tech Stack Used
- - C++ language
- - Graph Data Structute
- - Dijkstra Algorithm (using Set data structure)
- - STL Containers (map, set, vector etc.)
- - C++ File handling (for creating .dot file)
- - Graphviz (for Creating Graph image or pdf using .dot file)
+ - C++ language.
+ - Graph Data Structute.
+ - Dijkstra Algorithm (using Set data structure).
+ - STL Containers (map, set, vector etc.).
+ - C++ File handling (for creating .dot file).
+ - Graphviz (for Creating Graph image or pdf using .dot file).
  
  ## 🔰 About
  - The Aim of this project is to find & visualize the Shortest Path between Delhi Metro Stations, it uses Graph Data Structure & Dijkstra's Algorithm.
